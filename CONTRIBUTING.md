@@ -58,7 +58,7 @@ Once the Chart has been merged, the release job will automatically run in the CI
 
 Whether you are a user or contributor, official support channels include:
 
-- GitHub issues: https://github.com/MoJo2600/pihole-kubernetes/issues
-- GitHub discussions: https://github.com/MoJo2600/pihole-kubernetes/discussions
+- GitHub issues: https://github.com/home-ops/charts/issues
+- GitHub discussions: https://github.com/home-ops/charts/discussions
 
 Before opening a new issue or submitting a new pull request, it's helpful to search the project - it's likely that another user has already reported the issue you're facing, or it's a known issue that we're already aware of.

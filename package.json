@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoJo2600/pihole-kubernetes.git"
+    "url": "git+https://github.com/home-ops/charts.git"
   },
   "author": "Christian Erhardt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MoJo2600/pihole-kubernetes/issues"
+    "url": "https://github.com/home-ops/charts/issues"
   },
-  "homepage": "https://github.com/MoJo2600/pihole-kubernetes#readme",
+  "homepage": "https://github.com/home-ops/charts#readme",
   "devDependencies": {
     "all-contributors-cli": "^6.20.0"
   }

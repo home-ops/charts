@@ -525,7 +525,7 @@
   ],
   "contributorsPerLine": 7,
   "projectName": "pihole-kubernetes",
-  "projectOwner": "MoJo2600",
+  "projectOwner": "home-ops",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,

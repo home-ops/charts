@@ -8,7 +8,7 @@ Installs pihole in kubernetes
 
 ## Source Code
 
-* <https://github.com/MoJo2600/pihole-kubernetes/tree/master/charts/pihole>
+* <https://github.com/home-ops/charts/tree/master/charts/pihole>
 * <https://pi-hole.net/>
 * <https://github.com/pi-hole>
 * <https://github.com/pi-hole/docker-pi-hole>
@@ -22,7 +22,7 @@ Jeff Geerling on YouTube made a video about the installation of this chart:
 ### Add Helm repository
 
 ```shell
-helm repo add mojo2600 https://mojo2600.github.io/pihole-kubernetes/
+helm repo add home-ops https://home-ops.github.io/pihole-kubernetes/
 helm repo update
 ```
 
@@ -279,7 +279,7 @@ The following table lists the configurable parameters of the pihole chart and th
 
 | Name | Email | Url |
 | ---- | ------ | --- |
-| MoJo2600 | <christian.erhardt@mojo2k.de> |  |
+| home-ops | <ebcrypto@k8sdashboard.com> |  |
 
 ## Remarks
 
@@ -297,7 +297,7 @@ MetalLB 0.7.3 has a bug, where the service is not announced anymore, when the po
 
 ## Contributing
 
-Feel free to contribute by making a [pull request](https://github.com/MoJo2600/pihole-kubernetes/pull/new/master).
+Feel free to contribute by making a [pull request](https://github.com/home-ops/charts/pull/new/master).
 
 Please read [Contribution Guide](../../CONTRIBUTING.md) for more information on how you can contribute to this Chart.
 

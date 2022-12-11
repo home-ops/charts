@@ -1,27 +1,27 @@
-# mojo2600.github.io
+# home-ops.github.io
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-27-blue.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [Helm](https://helm.sh) repo for different charts which can be installed on [Kubernetes](https://kubernetes.io)
 
-Further documentation including chart keys, types, and default values is at https://hub.helm.sh/charts/mojo2600/pihole
+Further documentation including chart keys, types, and default values is at https://hub.helm.sh/charts/home-ops/pihole
 
 ### Add Helm repository
 
 To install the repo just run:
 
 ```bash
-helm repo add mojo2600 https://mojo2600.github.io/pihole-kubernetes/
+helm repo add home-ops https://home-ops.github.io/pihole-kubernetes/
 helm repo update
 ```
 
 ### Helm Charts
 
-* [pihole](https://mojo2600.github.io/pihole-kubernetes)
+* [pihole](https://home-ops.github.io/pihole-kubernetes)
 
   ```bash
-  helm install your-release mojo2600/pihole
+  helm install your-release home-ops/pihole
   ```
   
 

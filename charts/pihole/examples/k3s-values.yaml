@@ -1,7 +1,7 @@
 # This is the values.yaml I used on my k3s raspberrypi cluster
 
 # if you have a problem with serviceWeb Pods not building you might need to checkout this issue:
-# https://github.com/MoJo2600/pihole-kubernetes/issues/230
+# https://github.com/home-ops/charts/issues/230
 
 ingress:
   enabled: true
