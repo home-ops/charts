@@ -10,7 +10,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -29,7 +29,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -48,7 +48,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -67,7 +67,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -86,7 +86,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -105,7 +105,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -124,7 +124,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -143,7 +143,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -162,7 +162,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -181,7 +181,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -200,7 +200,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -219,7 +219,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -238,7 +238,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -257,7 +257,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -276,7 +276,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -295,7 +295,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -313,7 +313,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -331,7 +331,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -349,7 +349,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -367,7 +367,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -385,7 +385,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -403,7 +403,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -421,7 +421,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -439,7 +439,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -457,7 +457,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -475,7 +475,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -493,7 +493,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -511,7 +511,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -529,7 +529,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -547,7 +547,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -565,7 +565,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -583,7 +583,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -601,7 +601,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -620,7 +620,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -639,7 +639,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -658,7 +658,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -677,7 +677,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -696,7 +696,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -715,7 +715,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -734,7 +734,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -753,7 +753,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -772,7 +772,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -791,7 +791,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -810,7 +810,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -829,7 +829,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -848,7 +848,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://github.com/home-ops/charts/tree/master/charts/pihole
@@ -867,7 +867,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -885,7 +885,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -903,7 +903,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -921,7 +921,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -939,7 +939,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -957,7 +957,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -975,7 +975,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -993,7 +993,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1011,7 +1011,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1029,7 +1029,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1047,7 +1047,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1065,7 +1065,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1083,7 +1083,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1101,7 +1101,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1119,7 +1119,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1137,7 +1137,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1155,7 +1155,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1173,7 +1173,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1191,7 +1191,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1209,7 +1209,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1227,7 +1227,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1245,7 +1245,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1263,7 +1263,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1281,7 +1281,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1299,7 +1299,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1317,7 +1317,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1335,7 +1335,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1353,7 +1353,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/
@@ -1371,7 +1371,7 @@ entries:
     icon: https://i2.wp.com/pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png
     maintainers:
     - email: christian.erhardt@mojo2k.de
-      name: MoJo2600
+      name: home-ops
     name: pihole
     sources:
     - https://pi-hole.net/

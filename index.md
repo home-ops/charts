@@ -8,7 +8,7 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 Once Helm is set up properly, add the repo and install as follows:
 
 ```console
-helm repo add mojo2600 https://home-ops.github.io/charts/
-helm upgrade -i pihole mojo2600/pihole -f values.yaml
+helm repo add home-ops https://home-ops.github.io/charts/
+helm upgrade -i pihole home-ops/pihole -f values.yaml
 ```
 
