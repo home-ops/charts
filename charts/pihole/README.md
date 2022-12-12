@@ -22,7 +22,7 @@ Jeff Geerling on YouTube made a video about the installation of this chart:
 ### Add Helm repository
 
 ```shell
-helm repo add home-ops https://home-ops.github.io/pihole-kubernetes/
+helm repo add home-ops https://home-ops.github.io/charts/
 helm repo update
 ```
 

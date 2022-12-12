@@ -12,13 +12,13 @@ Further documentation including chart keys, types, and default values is at http
 To install the repo just run:
 
 ```bash
-helm repo add home-ops https://home-ops.github.io/pihole-kubernetes/
+helm repo add home-ops https://home-ops.github.io/charts/
 helm repo update
 ```
 
 ### Helm Charts
 
-* [pihole](https://home-ops.github.io/pihole-kubernetes)
+* [pihole](https://home-ops.github.io/charts)
 
   ```bash
   helm install your-release home-ops/pihole
