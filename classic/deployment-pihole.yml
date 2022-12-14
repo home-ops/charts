@@ -31,7 +31,7 @@ spec:
             secretKeyRef:
               key: password
               name: pihole-webpassword
-        image: pihole/pihole:4.1_amd64
+        image: pihole/pihole:v4.4
         imagePullPolicy: IfNotPresent
         name: pihole
         ports:
